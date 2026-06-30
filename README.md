@@ -2,11 +2,11 @@
 
 #### Implementation Status
 
-✓ Coordinate optimization
+✅ Coordinate optimization
 
-✓ Candidate generation
+✅ Candidate generation
 
-✓ Gradient computation
+✅ Gradient computation
 
 Remaining
 
