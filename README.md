@@ -12,12 +12,11 @@
 - ✅ Live attack progress monitoring
 - ✅ Attack cancellation and checkpointing
 - ✅ Result retrieval via REST API
-
 ---
-□ Batch evaluation
-□ AdvBench evaluation
-□ Better optimization
-□ Paper reproduction
+- □ Batch evaluation
+- □ AdvBench evaluation
+- □ Better optimization
+- □ Paper reproduction
 ---
 ## Motivation
 
